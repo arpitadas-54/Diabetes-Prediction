@@ -1,8 +1,8 @@
-# Diabetes-Prediction
+## Diabetes-Prediction
 Objective
 The objective of this project is to build a predictive model that can accurately classify whether a patient has diabetes or not based on various symptoms and conditions often associated with diabetes. The target column for prediction is labeled 'class' and has two possible values: 'Positive' (indicating the presence of diabetes) and 'Negative' (indicating the absence of diabetes).
 
-Dataset
+# Dataset
 The dataset consists of multiple features related to symptoms and conditions associated with diabetes. Each row represents a patient, and the columns are as follows:
 
 .Age: Age of the patient
@@ -27,8 +27,8 @@ The dataset consists of multiple features related to symptoms and conditions ass
 2. Exploratory Data Analysis
 
    
-  Univariate and Bivariate Analysis
-UniUnivariate Analysis
+  # Univariate and Bivariate Analysis
+Univariate Analysis
 Univariate analysis involves examining each variable in the dataset separately. Here, we'll look at the distribution of numerical and categorical variables.
 Bivariate Analysis
 Bivariate analysis involves examining the relationship between two variables.
