@@ -5,26 +5,26 @@ The objective of this project is to build a predictive model that can accurately
 # Dataset
 The dataset consists of multiple features related to symptoms and conditions associated with diabetes. Each row represents a patient, and the columns are as follows:
 
--Age: Age of the patient
--Gender: Gender of the patient (Male/Female)
--Polyuria: Excessive urination (Yes/No)
-.Polydipsia: Excessive thirst (Yes/No)
-.Sudden weight loss: Sudden weight loss (Yes/No)
-.Weakness: General weakness (Yes/No)
-.Polyphagia: Excessive hunger (Yes/No)
-.Genital thrush: Genital thrush (Yes/No)
-.Visual blurring: Visual blurring (Yes/No)
-.Itching: Itching (Yes/No)
-.Irritability: Irritability (Yes/No)
-.Delayed healing: Delayed healing of wounds (Yes/No)
-.Partial paresis: Partial paresis (Yes/No)
-.Muscle stiffness: Muscle stiffness (Yes/No)
-.Alopecia: Hair loss (Yes/No)
-.Obesity: Obesity (Yes/No)
-.Class: Diabetes class (Positive/Negative)
+1.Age: Age of the patient
+2.Gender: Gender of the patient (Male/Female)
+3.Polyuria: Excessive urination (Yes/No)
+4.Polydipsia: Excessive thirst (Yes/No)
+5.Sudden weight loss: Sudden weight loss (Yes/No)
+6.Weakness: General weakness (Yes/No)
+7.Polyphagia: Excessive hunger (Yes/No)
+8.Genital thrush: Genital thrush (Yes/No)
+9.Visual blurring: Visual blurring (Yes/No)
+10.Itching: Itching (Yes/No)
+11.Irritability: Irritability (Yes/No)
+12.Delayed healing: Delayed healing of wounds (Yes/No)
+13.Partial paresis: Partial paresis (Yes/No)
+14.Muscle stiffness: Muscle stiffness (Yes/No)
+15.Alopecia: Hair loss (Yes/No)
+16.Obesity: Obesity (Yes/No)
+17.Class: Diabetes class (Positive/Negative)
 
-1. Importing the libraries and loading the dataset
-2. Exploratory Data Analysis
+#1. Importing the libraries and loading the dataset
+#2. Exploratory Data Analysis
 
    
   # Univariate and Bivariate Analysis
