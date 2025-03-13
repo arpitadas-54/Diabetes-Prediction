@@ -5,9 +5,9 @@ The objective of this project is to build a predictive model that can accurately
 # Dataset
 The dataset consists of multiple features related to symptoms and conditions associated with diabetes. Each row represents a patient, and the columns are as follows:
 
-*Age: Age of the patient
-*Gender: Gender of the patient (Male/Female)
-*Polyuria: Excessive urination (Yes/No)
+-Age: Age of the patient
+-Gender: Gender of the patient (Male/Female)
+-Polyuria: Excessive urination (Yes/No)
 .Polydipsia: Excessive thirst (Yes/No)
 .Sudden weight loss: Sudden weight loss (Yes/No)
 .Weakness: General weakness (Yes/No)
